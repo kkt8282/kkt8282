@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&fontAlign=50&fontAlignY=37&fontSize=90&fontColor=F2F2F2&color=gradient&customColorList=2&text=Welcome!&desc=Gyutae%20Kim's%20Github%20Profile&descSize=16&descAlignY=52&descAlign=62)
-
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&fontAlign=50&fontAlignY=37&fontSize=90&fontColor=F2F2F2&color=gradient&customColorList=2&text=Welcome!&desc=Gyutae%20Kim's%20Github%20Profile&descSize=16&descAlignY=52&descAlign=62"/>
+</p>
 <p align='center'>
   </a>
   <a href="mailto:kktkkt828@gmail.com">
@@ -27,16 +28,18 @@
   </a>
 </p>
 
-<br /><br />
-### :construction: This page is under construction!!!  :construction:
-<br />
+<p align='center'>
+  :construction: This page is under construction!!!  :construction:
+</p>
 
 <!--
 ### Hi there 👋
 I'm Gyutae Kim,
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=gradient&customColorList=2&section=footer)
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=gradient&customColorList=2&section=footer">
+</p>
 <!--
 **kkt8282/kkt8282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
