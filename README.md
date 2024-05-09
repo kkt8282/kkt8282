@@ -132,6 +132,10 @@ I'm Gyutae Kim,
           <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="65" height="65" />
         <br>Redis
       </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
+        <br>SQLite
+      </td>
     </tr>
     <tr>
       <th>Tools & IDEs</th>
