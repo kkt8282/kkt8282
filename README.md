@@ -7,22 +7,22 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   </a>
-  &emsp;&emsp;
+  
   <a href="https://line.me/ti/p/6OFw--Twv8">
   <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white">
   </a>
   </a>
-  &emsp;&emsp;
+  
   <a href="https://gyuray.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
   </a>
-  &emsp;&emsp;
+ 
   <a href="https://www.instagram.com/gyu._.t/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   </a>
-  &emsp;&emsp;
+  
   <a href="https://github.com/kkt8282">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -188,6 +188,21 @@ I'm Gyutae Kim,
     </tr>
   </table>
 </p>
+<br></br>
+
+## :bar_chart: Stats
+<p align='center'>
+  <img src="https://github.com/kkt8282/github-stats-transparent/blob/4f106fe529b5908b13901d8a87d50d3da16980ae/generated/overview.svg">
+  <img src="https://github.com/kkt8282/github-stats-transparent/blob/4f106fe529b5908b13901d8a87d50d3da16980ae/generated/languages.svg">
+</p>
+<br></br>
+
+## :notes: Recently Music
+<p align='center'>
+  <a href="https://www.last.fm/user/rbxo8282"><img src="https://lastfm-recently-played.vercel.app/api?user=rbxo8282"/></a>
+</p> 
+<br></br>
+
 <p align='right'>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkt8282%2Fhit-counter&count_bg=%2350ACD7&title_bg=%238C8C8C&icon=awesomelists.svg&icon_color=%23000000&title=hits++&edge_flat=true"/></a>
 </p> 
