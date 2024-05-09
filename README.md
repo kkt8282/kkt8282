@@ -161,7 +161,7 @@ I'm Gyutae Kim,
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />
-        <br>VisualStudio
+        <br>VStudio
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="65" height="65" />
